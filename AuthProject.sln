@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthProject.WebAPI", "AuthProject.WebAPI\AuthProject.WebAPI.csproj", "{18617D93-6851-4B86-946B-2F6B49132E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthProject.Auth", "AuthProject.Auth\AuthProject.Auth.csproj", "{29FFBD50-195B-4BED-BC8D-2AE89789D960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18617D93-6851-4B86-946B-2F6B49132E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18617D93-6851-4B86-946B-2F6B49132E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18617D93-6851-4B86-946B-2F6B49132E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18617D93-6851-4B86-946B-2F6B49132E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FFBD50-195B-4BED-BC8D-2AE89789D960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FFBD50-195B-4BED-BC8D-2AE89789D960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FFBD50-195B-4BED-BC8D-2AE89789D960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FFBD50-195B-4BED-BC8D-2AE89789D960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
